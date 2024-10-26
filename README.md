@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Hash Table
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
