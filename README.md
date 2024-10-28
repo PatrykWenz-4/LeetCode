@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/PatrykWenz-4/LeetCode/tree/master/0605-can-place-flowers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PatrykWenz-4/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/PatrykWenz-4/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
