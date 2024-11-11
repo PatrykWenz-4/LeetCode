@@ -1,41 +1,13 @@
+primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 401, 409, 419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499, 503, 509, 521, 523, 541, 547, 557, 563, 569, 571, 577, 587, 593, 599, 601, 607, 613, 617, 619, 631, 641, 643, 647, 653, 659, 661, 673, 677, 683, 691, 701, 709, 719, 727, 733, 739, 743, 751, 757, 761, 769, 773, 787, 797, 809, 811, 821, 823, 827, 829, 839, 853, 857, 859, 863, 877, 881, 883, 887, 907, 911, 919, 929, 937, 941, 947, 953, 967, 971, 977, 983, 991, 997, 1009, 1013, 1019, 1021]
+
 class Solution:
-    def isprime(self, n):
-        for i in range(2, isqrt(n) + 1):
-            if n % i == 0:
+    def primeSubOperation(self, nums: List[int]) -> bool:
+        prev = 0
+        for num in nums:
+            if num <= prev:
                 return False
-        return True
-
-    def primeSubOperation(self, nums):
-        maxElement = max(nums)
-
-        # Store the previousPrime array.
-        previous_prime = [0] * (maxElement + 1)
-        for i in range(2, maxElement + 1):
-            if self.isprime(i):
-                previous_prime[i] = i
-            else:
-                previous_prime[i] = previous_prime[i - 1]
-
-        for i in range(len(nums)):
-
-            # In case of first index, we need to find the largest prime less
-            # than nums[0].
-            if i == 0:
-                bound = nums[0]
-            else:
-                # Otherwise, we need to find the largest prime, that makes the
-                # current element closest to the previous element.
-                bound = nums[i] - nums[i - 1]
-
-            # If the bound is less than or equal to 0, then the array cannot be
-            # made strictly increasing.
-            if bound <= 0:
-                return False
-
-            # Find the largest prime less than bound.
-            largest_prime = previous_prime[bound - 1]
-
-            # Subtract this value from nums[i].
-            nums[i] -= largest_prime
-
+            i = bisect_left(primes, num - prev) - 1
+            if i != -1:
+                num -= primes[i]
+            prev = num
         return True
