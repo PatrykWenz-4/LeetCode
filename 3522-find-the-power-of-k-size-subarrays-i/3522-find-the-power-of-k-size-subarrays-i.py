@@ -1,19 +1,16 @@
 class Solution:
-    def resultsArray(self, nums: List[int], k: int) -> List[int]:
+    def resultsArray(self, nums: list[int], k: int) -> list[int]:
         results = []
-        
-        for i in range(len(nums) - k + 1):
-            current_window = nums[i:i + k]
+        start = 0
 
-            is_consecutive = True
-            for j in range(k - 1):
-                if current_window[j + 1] - current_window[j] != 1:
-                    is_consecutive = False
-                    break
-
-            if is_consecutive:
-                results.append(max(current_window))
-            else:
-                results.append(-1)
+        for i in range(len(nums)):
+            if i > 0 and nums[i] != nums[i - 1] + 1:
+                start = i
+            if i >= k - 1:
+                if i - start + 1 >= k:
+                    results.append(nums[i])
+                else:
+                    results.append(-1)
 
         return results
+        
