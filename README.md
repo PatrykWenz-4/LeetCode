@@ -6,6 +6,7 @@
 | ------- |
 | [0506-relative-ranks](https://github.com/PatrykWenz-4/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/PatrykWenz-4/LeetCode/tree/master/0605-can-place-flowers) |
+| [1127-last-stone-weight](https://github.com/PatrykWenz-4/LeetCode/tree/master/1127-last-stone-weight) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PatrykWenz-4/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -145,4 +146,5 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/PatrykWenz-4/LeetCode/tree/master/0506-relative-ranks) |
+| [1127-last-stone-weight](https://github.com/PatrykWenz-4/LeetCode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
