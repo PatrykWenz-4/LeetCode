@@ -188,4 +188,8 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0787-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/PatrykWenz-4/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
