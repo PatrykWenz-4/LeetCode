@@ -26,6 +26,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/PatrykWenz-4/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -72,6 +73,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PatrykWenz-4/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2089-maximum-matrix-sum](https://github.com/PatrykWenz-4/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Database
 |  |
@@ -172,6 +174,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PatrykWenz-4/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/PatrykWenz-4/LeetCode/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PatrykWenz-4/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -188,8 +191,14 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0787-sliding-puzzle) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Graph
 |  |
 | ------- |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/PatrykWenz-4/LeetCode/tree/master/3189-find-champion-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
