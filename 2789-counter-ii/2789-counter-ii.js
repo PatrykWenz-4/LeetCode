@@ -6,16 +6,19 @@ var createCounter = function(init) {
     let number = init;
 
     function increment(){
-        return number += 1;
+        return number +=1;
     }
+
+    function decrement(){
+        return number -=1;
+    }
+
     function reset(){
         return number = init;
     }
-    function decrement(){
-        return number -= 1;
-    }
+    
+    return { increment, decrement, reset };
 
-  return { increment, decrement, reset };
 };
 
 /**
