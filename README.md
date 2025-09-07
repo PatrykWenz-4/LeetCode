@@ -12,6 +12,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PatrykWenz-4/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PatrykWenz-4/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/PatrykWenz-4/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -145,6 +146,7 @@
 ## Math
 |  |
 | ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
