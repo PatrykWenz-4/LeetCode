@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PatrykWenz-4/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/PatrykWenz-4/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
