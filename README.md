@@ -11,6 +11,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PatrykWenz-4/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1127-last-stone-weight](https://github.com/PatrykWenz-4/LeetCode/tree/master/1127-last-stone-weight) |
+| [1266-minimum-time-visiting-all-points](https://github.com/PatrykWenz-4/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PatrykWenz-4/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -156,6 +157,7 @@
 ## Math
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/PatrykWenz-4/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
@@ -225,4 +227,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/PatrykWenz-4/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
