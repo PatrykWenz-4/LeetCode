@@ -34,6 +34,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3453-separate-squares-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3453-separate-squares-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -126,6 +127,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/PatrykWenz-4/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/PatrykWenz-4/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
