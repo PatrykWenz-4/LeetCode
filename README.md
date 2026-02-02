@@ -41,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
 | [0812-rotate-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0812-rotate-string) |
@@ -171,6 +172,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
