@@ -38,6 +38,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3453-separate-squares-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3453-separate-squares-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3637-trionic-array-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3637-trionic-array-i) |
 ## String
 |  |
 | ------- |
