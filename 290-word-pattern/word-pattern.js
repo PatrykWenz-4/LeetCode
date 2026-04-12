@@ -23,7 +23,10 @@ var wordPattern = function(pattern, s) {
         map.set(charKey, i);
         map.set(wordKey, i);
 
-        console.log(charKey)
+        console.log(map.get(charKey))
+        console.log(map.get(wordKey))
+
+
     }
 
     return true;
