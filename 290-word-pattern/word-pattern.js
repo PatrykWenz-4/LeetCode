@@ -13,8 +13,8 @@ var wordPattern = function(pattern, s) {
     const map = new Map();
 
     for (let i = 0; i < pattern.length; i++) {
-        const charKey = `char_${pattern[i]}`;
-        const wordKey = `word_${words[i]}`;
+        const charKey = "char_" + pattern[i];
+        const wordKey = "word_" + words[i];
 
         if (map.get(charKey) !== map.get(wordKey)) {
             return false;
@@ -22,11 +22,6 @@ var wordPattern = function(pattern, s) {
 
         map.set(charKey, i);
         map.set(wordKey, i);
-
-        console.log((charKey))
-        console.log(map.get(charKey))
-
-
     }
 
     return true;
