@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/PatrykWenz-4/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/PatrykWenz-4/LeetCode/tree/master/0605-can-place-flowers) |
 | [0787-sliding-puzzle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -65,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -112,6 +114,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PatrykWenz-4/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PatrykWenz-4/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -125,6 +128,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/PatrykWenz-4/LeetCode/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PatrykWenz-4/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/PatrykWenz-4/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -148,6 +152,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/PatrykWenz-4/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -165,6 +170,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PatrykWenz-4/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
