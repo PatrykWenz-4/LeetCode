@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0219-contains-duplicate-ii](https://github.com/PatrykWenz-4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/PatrykWenz-4/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/PatrykWenz-4/LeetCode/tree/master/0605-can-place-flowers) |
@@ -67,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/PatrykWenz-4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/PatrykWenz-4/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
@@ -200,6 +202,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/PatrykWenz-4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PatrykWenz-4/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/PatrykWenz-4/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PatrykWenz-4/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
