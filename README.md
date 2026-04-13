@@ -76,6 +76,7 @@
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/PatrykWenz-4/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/PatrykWenz-4/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PatrykWenz-4/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/PatrykWenz-4/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/PatrykWenz-4/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Prefix Sum
@@ -181,6 +183,7 @@
 | [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PatrykWenz-4/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/PatrykWenz-4/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
