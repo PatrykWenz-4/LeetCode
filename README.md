@@ -20,6 +20,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PatrykWenz-4/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1748-sum-of-unique-elements](https://github.com/PatrykWenz-4/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1755-defuse-the-bomb](https://github.com/PatrykWenz-4/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/PatrykWenz-4/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -75,6 +76,7 @@
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1748-sum-of-unique-elements](https://github.com/PatrykWenz-4/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PatrykWenz-4/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
+| [1748-sum-of-unique-elements](https://github.com/PatrykWenz-4/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Prefix Sum
 |  |
