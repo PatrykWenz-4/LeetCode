@@ -55,6 +55,7 @@
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PatrykWenz-4/LeetCode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/PatrykWenz-4/LeetCode/tree/master/0409-longest-palindrome) |
 | [0812-rotate-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -80,6 +81,7 @@
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PatrykWenz-4/LeetCode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/PatrykWenz-4/LeetCode/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/PatrykWenz-4/LeetCode/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -159,6 +161,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/PatrykWenz-4/LeetCode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/PatrykWenz-4/LeetCode/tree/master/0605-can-place-flowers) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1975-maximum-matrix-sum](https://github.com/PatrykWenz-4/LeetCode/tree/master/1975-maximum-matrix-sum) |
