@@ -8,7 +8,6 @@ var longestPalindrome = function(s) {
 
     for(let i =0; i<s.length; i++){
         map.set(s[i], (map.get(s[i])||0) + 1);
-        console.log(map);
     }
 
     let sum = 0;
