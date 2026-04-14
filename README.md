@@ -53,6 +53,7 @@
 | [0290-word-pattern](https://github.com/PatrykWenz-4/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -76,6 +77,7 @@
 | [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/PatrykWenz-4/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/PatrykWenz-4/LeetCode/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/PatrykWenz-4/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/PatrykWenz-4/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/PatrykWenz-4/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -233,6 +236,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PatrykWenz-4/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
