@@ -12,7 +12,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> words = [&quot;hello&quot;,&quot;i&quot;,&quot;am&quot;,&quot;leetcode&quot;,&quot;hello&quot;], target = &quot;hello&quot;, startIndex = 1
+<strong>Input:</strong> words = [&quot;hello&quot;,&quot;i&quot;,&quot;am&quot;,&quot;leetcode&quot;,&quot;hello&quot;], target = &quot;hello&quot;, startIndex = 1.
 <strong>Output:</strong> 1
 <strong>Explanation:</strong> We start from index 1 and can reach &quot;hello&quot; by
 - moving 3 units to the right to reach index 4.
