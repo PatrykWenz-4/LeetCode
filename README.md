@@ -43,6 +43,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3453-separate-squares-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/PatrykWenz-4/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3637-trionic-array-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -95,6 +96,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PatrykWenz-4/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/PatrykWenz-4/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3488-closest-equal-element-queries](https://github.com/PatrykWenz-4/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Dynamic Programming
 |  |
@@ -147,6 +149,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3453-separate-squares-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/PatrykWenz-4/LeetCode/tree/master/3488-closest-equal-element-queries) |
 ## Sorting
 |  |
 | ------- |
