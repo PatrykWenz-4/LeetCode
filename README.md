@@ -33,6 +33,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2463-minimum-total-distance-traveled](https://github.com/PatrykWenz-4/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PatrykWenz-4/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/PatrykWenz-4/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -62,6 +63,7 @@
 | [0812-rotate-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2580-circular-sentence](https://github.com/PatrykWenz-4/LeetCode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/PatrykWenz-4/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PatrykWenz-4/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
