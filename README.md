@@ -48,6 +48,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3637-trionic-array-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/PatrykWenz-4/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3488-closest-equal-element-queries](https://github.com/PatrykWenz-4/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/PatrykWenz-4/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Number Theory
 |  |
 | ------- |
