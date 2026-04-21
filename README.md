@@ -21,6 +21,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PatrykWenz-4/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1748-sum-of-unique-elements](https://github.com/PatrykWenz-4/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1755-defuse-the-bomb](https://github.com/PatrykWenz-4/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2201-valid-arrangement-of-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Trie
 |  |
@@ -300,4 +302,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
