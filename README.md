@@ -70,6 +70,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2580-circular-sentence](https://github.com/PatrykWenz-4/LeetCode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/PatrykWenz-4/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2833-furthest-point-from-origin](https://github.com/PatrykWenz-4/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PatrykWenz-4/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/PatrykWenz-4/LeetCode/tree/master/3451-string-compression-iii) |
 ## Depth-First Search
@@ -206,6 +207,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/PatrykWenz-4/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/PatrykWenz-4/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2833-furthest-point-from-origin](https://github.com/PatrykWenz-4/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
 | ------- |
