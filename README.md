@@ -16,6 +16,7 @@
 | [1127-last-stone-weight](https://github.com/PatrykWenz-4/LeetCode/tree/master/1127-last-stone-weight) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PatrykWenz-4/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PatrykWenz-4/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PatrykWenz-4/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2201-valid-arrangement-of-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -130,6 +132,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0787-sliding-puzzle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PatrykWenz-4/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PatrykWenz-4/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -290,6 +293,7 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Graph
@@ -317,6 +321,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
