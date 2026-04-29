@@ -49,6 +49,7 @@
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3453-separate-squares-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/PatrykWenz-4/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -127,6 +128,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/PatrykWenz-4/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Database
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PatrykWenz-4/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/PatrykWenz-4/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2615-sum-of-distances](https://github.com/PatrykWenz-4/LeetCode/tree/master/2615-sum-of-distances) |
+| [3225-maximum-score-from-grid-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Math
 |  |
 | ------- |
