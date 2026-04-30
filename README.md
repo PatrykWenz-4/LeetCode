@@ -56,6 +56,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3637-trionic-array-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
@@ -129,6 +130,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Database
 |  |
 | ------- |
