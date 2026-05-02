@@ -7,6 +7,7 @@
 | [0085-maximal-rectangle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0219-contains-duplicate-ii](https://github.com/PatrykWenz-4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/PatrykWenz-4/LeetCode/tree/master/0396-rotate-function) |
 | [0506-relative-ranks](https://github.com/PatrykWenz-4/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/PatrykWenz-4/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/PatrykWenz-4/LeetCode/tree/master/0645-set-mismatch) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0396-rotate-function](https://github.com/PatrykWenz-4/LeetCode/tree/master/0396-rotate-function) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PatrykWenz-4/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -236,6 +238,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/PatrykWenz-4/LeetCode/tree/master/0396-rotate-function) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/PatrykWenz-4/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PatrykWenz-4/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
