@@ -71,6 +71,7 @@
 | [0409-longest-palindrome](https://github.com/PatrykWenz-4/LeetCode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/PatrykWenz-4/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/PatrykWenz-4/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PatrykWenz-4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -207,6 +208,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0812-rotate-string) |
 ## Bit Manipulation
 |  |
