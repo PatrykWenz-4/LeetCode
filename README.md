@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PatrykWenz-4/LeetCode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0219-contains-duplicate-ii](https://github.com/PatrykWenz-4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PatrykWenz-4/LeetCode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0787-sliding-puzzle](https://github.com/PatrykWenz-4/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -239,6 +241,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PatrykWenz-4/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/PatrykWenz-4/LeetCode/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/PatrykWenz-4/LeetCode/tree/master/0396-rotate-function) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/PatrykWenz-4/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
