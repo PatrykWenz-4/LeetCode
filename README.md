@@ -258,6 +258,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/PatrykWenz-4/LeetCode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PatrykWenz-4/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -339,4 +340,8 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/PatrykWenz-4/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
