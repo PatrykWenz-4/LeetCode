@@ -56,6 +56,7 @@
 | [3453-separate-squares-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/PatrykWenz-4/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PatrykWenz-4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-trionic-array-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3637-trionic-array-i) |
 | [3660-jump-game-ix](https://github.com/PatrykWenz-4/LeetCode/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -120,6 +121,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/PatrykWenz-4/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2615-sum-of-distances](https://github.com/PatrykWenz-4/LeetCode/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/PatrykWenz-4/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PatrykWenz-4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
@@ -251,12 +253,14 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/PatrykWenz-4/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PatrykWenz-4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PatrykWenz-4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PatrykWenz-4/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PatrykWenz-4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -314,6 +318,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PatrykWenz-4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Graph
 |  |
 | ------- |
