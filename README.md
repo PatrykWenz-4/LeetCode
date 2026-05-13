@@ -24,6 +24,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PatrykWenz-4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PatrykWenz-4/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PatrykWenz-4/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PatrykWenz-4/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -196,6 +197,7 @@
 | [0506-relative-ranks](https://github.com/PatrykWenz-4/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/PatrykWenz-4/LeetCode/tree/master/0645-set-mismatch) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PatrykWenz-4/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PatrykWenz-4/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/PatrykWenz-4/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2463-minimum-total-distance-traveled](https://github.com/PatrykWenz-4/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2554-minimum-total-distance-traveled](https://github.com/PatrykWenz-4/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -208,6 +210,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/PatrykWenz-4/LeetCode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/PatrykWenz-4/LeetCode/tree/master/0605-can-place-flowers) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PatrykWenz-4/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1975-maximum-matrix-sum](https://github.com/PatrykWenz-4/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PatrykWenz-4/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
