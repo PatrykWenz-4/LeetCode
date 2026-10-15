@@ -52,6 +52,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/PatrykWenz-4/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/PatrykWenz-4/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PatrykWenz-4/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PatrykWenz-4/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -123,6 +124,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/PatrykWenz-4/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/PatrykWenz-4/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2615-sum-of-distances](https://github.com/PatrykWenz-4/LeetCode/tree/master/2615-sum-of-distances) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/PatrykWenz-4/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PatrykWenz-4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -357,4 +359,12 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/PatrykWenz-4/LeetCode/tree/master/0061-rotate-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PatrykWenz-4/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
